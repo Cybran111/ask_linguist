@@ -107,6 +107,6 @@ docs/_build/
 # PyBuilder
 target/
 
-
+static/
 
 db.sqlite3

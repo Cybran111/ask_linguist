@@ -66,6 +66,4 @@ require("domready")(function () {
                 document.getElementById("test"));
         }
     );
-
-
 });

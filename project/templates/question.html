@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div id="test"></div>
+    <script src="{{ config.STATIC_PATH }}/questionnaire.{{ config.FRONTEND_VERSION }}.bundle.js"
+            type="text/javascript"></script>
+{% endblock %}
